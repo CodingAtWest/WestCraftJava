@@ -1,18 +1,11 @@
-|||NOW UPDATED TO 1.8!!!!!
+THIS IS A FORK OF EAGLERCRAFT, WE DID NOT MAKE EVERYTHING BY OURSELVES.
 
-online version is https://svaaps.github.io/eaglercrafthtml/
-(online version saves individual worlds too and works just as normal as the local version but you don't have to download anything)
-if you wanna play eaglercraft locally, its in releases
+This fork was created by middle school techies in the same school district
+Please use this at home. We are going to make sure you login with Google or Some sort of API with microsfot login so we can authenticate you as part of our school district.
 
-you can also clone this to make your own copy of the web version of eaglercraft!
+THE BUTTONS DONW BELOW LET YOU CLONE THE ORIGINAL EAGLERCRAFT!
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/svaaps/eaglercrafthtml)
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsvaaps%2Feaglercrafthtml%2F)
 
 
-original repo link without html - https://github.com/lax1dude/eaglercraft
-
-|||NOW UPDATED TO 1.8!!!!!
-
-
-ps: thanks to all of you for forking my repo, it makes me happy and proud. ive never had these many people look at my repos :)
