@@ -1,3 +1,5 @@
+# DEPLOYED ON VERCEL, LINK IS HERE
+
 THIS IS A FORK OF EAGLERCRAFT, WE DID NOT MAKE EVERYTHING BY OURSELVES.
 
 This fork was created by middle school techies in the same school district
